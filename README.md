@@ -9,5 +9,5 @@ on soft_interface (there's only the .cs files but its simple windows form applic
 Most of the eletronic part was built by Vitor Bierhals.
 
 interface:
-![alt text](https://imgur.com/qLEbGLH)
+https://imgur.com/qLEbGLH
 
