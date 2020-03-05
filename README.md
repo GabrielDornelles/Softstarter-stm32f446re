@@ -9,8 +9,8 @@ on soft_interface (there's only the .cs files but its simple windows form applic
 Most of the eletronic part was built by Vitor Bierhals.
 
 interface:
+
 ![image](https://user-images.githubusercontent.com/56324869/71425999-3b41e680-2682-11ea-8d1e-80cfd4e5604d.png)
 
-how can I kill myself without breaking my parents hearts?
 
 
