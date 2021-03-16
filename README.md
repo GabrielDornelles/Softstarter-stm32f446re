@@ -12,5 +12,13 @@ interface:
 
 ![image](https://user-images.githubusercontent.com/56324869/71425999-3b41e680-2682-11ea-8d1e-80cfd4e5604d.png)
 
+found some videos on my phone backups of it running (unfortunatelly not really good quality):
 
+system in general:
+https://www.youtube.com/watch?v=upiBTSgCZ2M
 
+interface running:
+https://www.youtube.com/watch?v=-1pDYrdC6Lc
+
+mk64 data to stm32 (couldnt find it running :/)
+https://www.youtube.com/watch?v=p8vkiDxzxoc&feature=youtu.be
